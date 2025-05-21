@@ -78,4 +78,3 @@ A Retrieval-Augmented Generation (RAG) chatbot that combines semantic search wit
 
 ### When the model does not know the answer
 <img src="model_unknown.png" width="400"/>
-
