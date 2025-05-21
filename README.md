@@ -65,4 +65,3 @@ A Retrieval-Augmented Generation (RAG) chatbot that combines semantic search wit
 ## Screenshots of UI
 - Due to heavy model loading, or due the app going to sleep, the deployed link might be delayed in showing the ouput.
 - Here are some screenshots attached to show how the UI looks like
-- ![RAG Chatbot Screenshot](media/Initial model setup.png)
