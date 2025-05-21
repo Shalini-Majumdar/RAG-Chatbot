@@ -67,15 +67,15 @@ A Retrieval-Augmented Generation (RAG) chatbot that combines semantic search wit
 - Here are some screenshots attached to show how the UI looks like
 
 ### Initial Model Setup
-<img src="Initial_model_setup.jpg" width="400"/>
+<img src="Initial_model_setup.png" width="400"/>
 
 ---
 
 ### When the model knows the answer
-<img src="model_known.jpg" width="400"/>
+<img src="model_known.png" width="400"/>
 
 ---
 
 ### When the model does not know the answer
-<img src="model_unknown.jpg" width="400"/>
+<img src="model_unknown.png" width="400"/>
 
