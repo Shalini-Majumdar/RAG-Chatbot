@@ -65,3 +65,17 @@ A Retrieval-Augmented Generation (RAG) chatbot that combines semantic search wit
 ## Screenshots of UI
 - Due to heavy model loading, or due the app going to sleep, the deployed link might be delayed in showing the ouput.
 - Here are some screenshots attached to show how the UI looks like
+
+### Initial Model Setup
+<img src="Initial Model Setup.jpg" width="400"/>
+
+---
+
+### When the model does not know the answer
+<img src="When the model does not know the answer.jpg" width="400"/>
+
+---
+
+### When the model knows the answer
+<img src="When the model does not know the answer.jpg" width="400"/>
+
