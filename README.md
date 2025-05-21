@@ -31,7 +31,7 @@ A Retrieval-Augmented Generation (RAG) chatbot that combines semantic search wit
 |------------------------|------------------------------------|
 | Embeddings             | `all-MiniLM-L6-v2` (sentence-transformers) |
 | Vector Store           | FAISS (via LangChain)              |
-| Language Model         | `google/flan-t5-large` or `flan-t5-base` |
+| Language Model         | `google/flan-t5-large`             |
 | Retrieval + QA Chain   | LangChain                          |
 | Interface              | Streamlit                          |
 | Dataset                | HuggingFace `wiki_snippets`        |
@@ -62,9 +62,6 @@ A Retrieval-Augmented Generation (RAG) chatbot that combines semantic search wit
 
 ---
 
-Let me know if you want:
-- A markdown badge version
-- A `README.pdf` for submission
-- Or your actual GitHub repo name filled in
-
-You're ready to show this off! 🚀
+## Screenshots of UI
+- Due to heavy model loading, or due the app going to sleep, the deployed link might be delayed in showing the ouput.
+- Here are some screenshots attached to show how the UI looks like
