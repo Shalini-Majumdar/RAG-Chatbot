@@ -2,7 +2,7 @@
 
 A Retrieval-Augmented Generation (RAG) chatbot that combines semantic search with a local language model to provide fact-grounded answers from Wikipedia. Built using **LangChain**, **FAISS**, **Sentence Transformers**, and **Flan-T5**, and deployed via **Streamlit Cloud**.
 
-🚀 [Try the Live App](https://rag-chatbot-eqpr5xkpfsmf5m4c4plabw.streamlit.app/)
+[Try the Live App](https://rag-chatbot-eqpr5xkpfsmf5m4c4plabw.streamlit.app/)
 
 ---
 
